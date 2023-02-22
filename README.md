@@ -11,7 +11,6 @@ TypeScript as type checking compiler 🛂
 
 ViteJS as boilerplate 📦
 
-For style i used Tailwind CSS
 # Installation
 First of all install all npm packages with the command:
 ```
