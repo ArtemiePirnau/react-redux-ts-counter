@@ -1,15 +1,13 @@
 # Description
 A simple counter app.
 A mini-application to practice TypeScript.
-# Technologies
+# What i used
 
-ReactJS for templating/routing 🦴
+## What i used :
 
-Redux for state management 🏁
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-TypeScript as type checking compiler 🛂
-
-ViteJS as boilerplate 📦
 
 # Installation
 First of all install all npm packages with the command:
